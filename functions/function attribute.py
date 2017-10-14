@@ -32,7 +32,7 @@ def imza(isim, unvan, telefon):
 
 a= raw_input("Isim giriniz: ")
 b= raw_input("Unvan giriniz: ")
-c=raw_input("Telefon numarasi giriniz: ")
+c= input("Telefon numarasi giriniz: ")
 
 imza(a,b,c)
 
