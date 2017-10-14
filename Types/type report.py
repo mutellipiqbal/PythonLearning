@@ -9,7 +9,7 @@ except ValueError:
       
 a = raw_input("enter your number or words: ")
 try:
-    type1 = int(a)
+    int(a)
     print "successful"
 except ValueError:
     print "unsuccessful"
