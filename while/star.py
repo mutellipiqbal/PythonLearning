@@ -4,7 +4,7 @@ while i <=10:
     star = "*"*i    
     print  star
 
-i=10
+i=11
 while i >=0: 
     i = i - 1
     star = "*"*i
