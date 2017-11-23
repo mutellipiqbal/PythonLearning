@@ -1,0 +1,16 @@
+s = "hello Python, I love you"
+print s.capitalize()
+print s.upper()
+print s.lower()
+print s.title()
+print s.count("l")
+print s.find("l")
+print s.center(20, "*")
+m = "hello"
+print m.isalpha()
+print m.islower()
+print m.isspace()
+print m.istitle()
+print m.isupper()
+print m.endswith("o")
+print m.split("o")
